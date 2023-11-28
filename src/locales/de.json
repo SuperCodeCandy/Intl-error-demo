@@ -1,0 +1,24 @@
+{
+  "default": {
+    "form": {
+      "submit": "提交",
+      "passwordLabel": "密码",
+      "rememberLogin": "记住登录",
+      "usernameLabel": "用户名",
+      "forgotPassword": "忘记密码?",
+      "verifyCanNotEmpty": "{label}不能为空",
+      "passwordPlaceholder": "请输入密码",
+      "usernamePlaceholder": "请输入用户名",
+      "verifyPasswordFormatError": "密码只能包含数字和中文，且长度要在5-10位",
+      "verifyUsernameFormatError": "用户名只能包含数字和中文，且长度要在5-10位"
+    },
+    "common": {
+      "darkTheme": "夜晚模式",
+      "lightTheme": "白天模式",
+      "veirfyUserinfoMessage": "用户信息校验中，请稍等..."
+    },
+    "statusMessage": {
+      "userLoginSuccess": "登录成功，正在跳转中，请稍后...."
+    }
+  }
+}
